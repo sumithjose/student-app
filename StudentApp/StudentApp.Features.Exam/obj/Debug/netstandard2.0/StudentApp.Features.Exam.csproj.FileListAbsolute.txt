@@ -1,0 +1,16 @@
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Features.Exam\bin\Debug\netstandard2.0\StudentApp.Features.Exam.deps.json
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Features.Exam\bin\Debug\netstandard2.0\StudentApp.Features.Exam.dll
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Features.Exam\bin\Debug\netstandard2.0\StudentApp.Features.Exam.pdb
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Features.Exam\bin\Debug\netstandard2.0\StudentApp.Features.Department.dll
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Features.Exam\bin\Debug\netstandard2.0\StudentApp.Features.Student.dll
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Features.Exam\bin\Debug\netstandard2.0\StudentApp.Repository.dll
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Features.Exam\bin\Debug\netstandard2.0\StudentApp.Features.Student.pdb
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Features.Exam\bin\Debug\netstandard2.0\StudentApp.Repository.pdb
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Features.Exam\bin\Debug\netstandard2.0\StudentApp.Features.Department.pdb
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Features.Exam\obj\Debug\netstandard2.0\StudentApp.Features.Exam.csprojAssemblyReference.cache
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Features.Exam\obj\Debug\netstandard2.0\StudentApp.Features.Exam.AssemblyInfoInputs.cache
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Features.Exam\obj\Debug\netstandard2.0\StudentApp.Features.Exam.AssemblyInfo.cs
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Features.Exam\obj\Debug\netstandard2.0\StudentApp.Features.Exam.csproj.CoreCompileInputs.cache
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Features.Exam\obj\Debug\netstandard2.0\StudentApp.Features.Exam.csproj.CopyComplete
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Features.Exam\obj\Debug\netstandard2.0\StudentApp.Features.Exam.dll
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Features.Exam\obj\Debug\netstandard2.0\StudentApp.Features.Exam.pdb

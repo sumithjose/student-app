@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StudentApp.Features.Department\StudentApp.Features.Department.csproj" />
+    <ProjectReference Include="..\StudentApp.Repository\StudentApp.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

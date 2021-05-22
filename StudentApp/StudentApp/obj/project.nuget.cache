@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z9GMJSVK+lVvFaEj6hzUAzb7AIx5cfJy8e07JW1Y6ySILYmXtC4dL6ZIc8ux30nGEA6ADlrCVMOK48Z/c9jTTg==",
+  "success": true,
+  "projectFilePath": "D:\\sumith\\Studyzzzzzzzzzzzzzzzzzzzzzzz\\studentapp\\student-app\\StudentApp\\StudentApp\\StudentApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Binu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

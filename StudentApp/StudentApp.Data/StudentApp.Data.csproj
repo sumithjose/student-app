@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StudentApp.Features.Department\StudentApp.Features.Department.csproj" />
+    <ProjectReference Include="..\StudentApp.Features.Exam\StudentApp.Features.Exam.csproj" />
+    <ProjectReference Include="..\StudentApp.Features.Student\StudentApp.Features.Student.csproj" />
+    <ProjectReference Include="..\StudentApp.Repository\StudentApp.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

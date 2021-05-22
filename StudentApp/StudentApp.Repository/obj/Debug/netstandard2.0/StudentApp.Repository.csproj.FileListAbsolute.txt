@@ -1,0 +1,9 @@
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Repository\bin\Debug\netstandard2.0\StudentApp.Repository.deps.json
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Repository\bin\Debug\netstandard2.0\StudentApp.Repository.dll
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Repository\bin\Debug\netstandard2.0\StudentApp.Repository.pdb
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Repository\obj\Debug\netstandard2.0\StudentApp.Repository.csprojAssemblyReference.cache
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Repository\obj\Debug\netstandard2.0\StudentApp.Repository.AssemblyInfoInputs.cache
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Repository\obj\Debug\netstandard2.0\StudentApp.Repository.AssemblyInfo.cs
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Repository\obj\Debug\netstandard2.0\StudentApp.Repository.csproj.CoreCompileInputs.cache
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Repository\obj\Debug\netstandard2.0\StudentApp.Repository.dll
+D:\sumith\Studyzzzzzzzzzzzzzzzzzzzzzzz\studentapp\student-app\StudentApp\StudentApp.Repository\obj\Debug\netstandard2.0\StudentApp.Repository.pdb
